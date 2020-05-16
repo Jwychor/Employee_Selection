@@ -3,4 +3,4 @@ A statistical report reviewing applicants for a job using R and several R packag
 
 ![image](https://github.com/Jwychor/Employee_Selection/blob/master/Expectancy%20Scatterogram.png)
 
-*Note that TP = True Positive, TN = True Negative, and SR = Selection Ratio.
+*Note that TP = True Positive, TN = True Negative, and SR = Selection Ratio. Numbers inside each dotted line represent the number of people inside the rectangular section.
